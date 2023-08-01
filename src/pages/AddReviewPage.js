@@ -1,4 +1,6 @@
 const AddReviewPage = () => {
-  return <></>;
+  return <>
+  <div>Welcome to Add Review page</div>
+  </>;
 };
 export default AddReviewPage;

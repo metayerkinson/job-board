@@ -1,4 +1,5 @@
 const ContactUsPage = () => {
-  return <></>;
+  return <>
+  Welcome to contact us page</>;
 };
 export default ContactUsPage;
